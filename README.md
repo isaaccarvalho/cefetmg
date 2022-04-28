@@ -3,3 +3,4 @@
 <hr>
   
 ### Projetos
+- <a href="https://github.com/isaaccarvalho/cefetmg/tree/main/Robotica_aplicada/Exercicios_python">Robótica Aplicada: Exercícios Python
